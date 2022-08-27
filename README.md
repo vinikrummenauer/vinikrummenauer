@@ -2,7 +2,7 @@
 
 
 - 🔭 Currently working with front-end and some back-end.
-- 🌱 I'm studying Javascript, Java, PHP, AngularJS and more.
+- 🌱 I'm studying Javascript, Java, PHP, NodeJS and more.
 <div>
   <a href="https://github.com/vinikrummenauer">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vinikrummenauer&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&bg_color=35,1a1b27,252334"/>
