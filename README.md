@@ -5,8 +5,8 @@
 - 🌱 I'm studying Javascript, Java, PHP, AngularJS and more.
 <div>
   <a href="https://github.com/vinikrummenauer">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vinikrummenauer&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinikrummenauer&layout=compact&langs_count=16&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vinikrummenauer&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&bg_color=35,1a1b27,252334"/>
+  <img height="180em" width="550m" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinikrummenauer&layout=compact&langs_count=16&theme=tokyonight"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Vini-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
