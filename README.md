@@ -1,9 +1,9 @@
 ### Hello, my name is Vinicius Krummenauer!
 
-
 - 🔭 Currently working with front-end and some back-end.
 - 🌱 I'm studying Javascript, Java, PHP, NodeJS and more.
 <div>
+<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/vinikrummenauer/0ce8fc4519126a5409981a217e940b81/raw/072fa0727db1adc9bc81eb287c9367a96d18ae30/githubcard.svg" />
   <a href="https://github.com/vinikrummenauer">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vinikrummenauer&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&bg_color=35,1a1b27,252334"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinikrummenauer&layout=compact&langs_count=16&theme=tokyonight"/>
@@ -17,7 +17,6 @@
   <img align="center" alt="Vini-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
   <img align="center" alt="Vini-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
   <img align="center" alt="Vini-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" />
-  <a href=""><img align="right" src="https://cdn.discordapp.com/attachments/1013164320240177336/1013168014604107857/eu.gif" width="150" height="150" border="0" alt="Vini" /></a>
 </div>
 
 ##
@@ -32,6 +31,5 @@
 </div>
   
 ##
-  
 ![snake gif](https://github.com/vinikrummenauer/vinikrummenauer/blob/output/github-contribution-grid-snake.svg)
 
