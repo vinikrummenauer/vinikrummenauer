@@ -1,25 +1,29 @@
 ### Hello, my name is Vinicius Krummenauer!
 
-- 🔭 Currently working with front-end and some back-end.
-- 🌱 I'm studying Javascript, Java, PHP, NodeJS and more.
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:ad6fff,100:0026da&height=120&section=header"/>
+ 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=5982E2&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Vinicius+Krummenauer;I'm+17+years+old;I'am+from+Igrejinha,+RS;I'am+a+student+at+the+CIMOL+technical+school;Be+welcome!+:%29)](https://git.io/typing-svg)
+
+##
+
 <div>
-<img align="right" height="500em" src="https://raw.githubusercontent.com/gist/vinikrummenauer/0ce8fc4519126a5409981a217e940b81/raw/072fa0727db1adc9bc81eb287c9367a96d18ae30/githubcard.svg" />
+<img align="right" height="480em" src="https://raw.githubusercontent.com/gist/vinikrummenauer/0ce8fc4519126a5409981a217e940b81/raw/072fa0727db1adc9bc81eb287c9367a96d18ae30/githubcard.svg" />
   <a href="https://github.com/vinikrummenauer">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vinikrummenauer&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&bg_color=35,1a1b27,252334"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinikrummenauer&layout=compact&langs_count=16&theme=tokyonight"/>
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Vini-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img align="center" alt="Vini-JAVA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-  <img align="center" alt="Vini-AngularJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
-  <img align="center" alt="Vini-NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img align="center" alt="Vini-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
-  <img align="center" alt="Vini-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-  <img align="center" alt="Vini-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-  <img align="center" alt="Vini-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vinikrummenauer&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true&bg_color=35,1a1b27,252334"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinikrummenauer&layout=compact&langs_count=16&hide_border=true&theme=tokyonight"/>
 </div>
 
 ##
+
+### Skills:
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
+![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
+![PHP](https://img.shields.io/badge/-PHP-0D1117?style=for-the-badge&logo=php&labelColor=0D1117&textColor=0D1117)&nbsp;
+![PHP](https://img.shields.io/badge/-MySQL-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117&textColor=0D1117)&nbsp;
+
+##
+
+### My social medias:
 
 <div>
   <a href="mailto:viniciuskdepaula@gmail.com?subject=Hello!" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -31,5 +35,6 @@
 </div>
   
 ##
+
 ![snake gif](https://github.com/vinikrummenauer/vinikrummenauer/blob/output/github-contribution-grid-snake.svg)
 
