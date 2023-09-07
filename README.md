@@ -35,5 +35,3 @@
   
 ##
 
-![snake gif](https://github.com/vinikrummenauer/vinikrummenauer/blob/output/github-contribution-grid-snake.svg)
-
