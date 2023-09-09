@@ -1,9 +1,5 @@
 ### Hello, my name is Vinicius Krummenauer!
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:ad6fff,100:0026da&height=120&section=header"/>
- 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=5982E2&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Vinicius+Krummenauer;I'm+18+years+old;I'am+from+Porto+Alegre,+Brazil;I'am+a+student+at+the+CIMOL+technical+school;Be+welcome!+:%29)](https://git.io/typing-svg)
-
 ##
 
 <div>
