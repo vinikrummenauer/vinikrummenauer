@@ -5,7 +5,7 @@
 <div>
 <img align="right" height="480em" src="https://raw.githubusercontent.com/gist/vinikrummenauer/0ce8fc4519126a5409981a217e940b81/raw/072fa0727db1adc9bc81eb287c9367a96d18ae30/githubcard.svg" />
   <a href="https://github.com/vinikrummenauer">
-  <!--<img height="180em" src="https://github-readme-stats.vercel.app/api?username=vinikrummenauer&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true&bg_color=35,1a1b27,252334"/>-->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vinikrummenauer&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true&bg_color=35,1a1b27,252334"/>
 </div>
 
 ##
