@@ -17,6 +17,7 @@
 ![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=green)&nbsp;
 ![Angular.js](https://img.shields.io/badge/AngularJS-0D1117?style=for-the-badge&logo=angularjs&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117&textColor=0D1117)&nbsp;
+![PHP](https://img.shields.io/badge/PHP-D1117?style=for-the-badge&logo=php&labelColor=0D1117&textColor=0D1117)&nbsp;
 
 ##
 
