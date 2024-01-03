@@ -21,7 +21,7 @@
 
 ##
 
-### My social medias
+### My social medias:
 
 <div>
   <a href="mailto:viniciuskdepaula@gmail.com?subject=Hello!" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
